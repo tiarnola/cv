@@ -1,0 +1,11 @@
+.png-viewer {
+    margin:  0% 15%;
+    width: 70%;
+}
+
+@media (max-width: 768px) {
+    .png-viewer {
+        width: 100%;
+        margin: 0%;
+    }
+}
